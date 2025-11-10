@@ -1,5 +1,17 @@
 # PostgreSQL CRUD Application – Students Database
 
+---
+
+## Demonstration Video
+
+📺 **Video Link:** [https://youtu.be/PAwqZ9YUo8E]  
+The video demonstrates:
+
+- Execution of each CRUD function (Add, List, Update, Delete)
+- Verifying changes in pgAdmin
+
+---
+
 ## Overview
 
 This project is a simple **CRUD (Create, Read, Update, Delete)** application built with **Python** and **PostgreSQL**.  
@@ -126,18 +138,6 @@ postgres-crud-students/
     ├── schema.sql      # Table creation script
     └── seed.sql        # Initial data insert script
 ```
-
----
-
-## Demonstration Video
-
-📺 **Video Link:** [https://youtu.be/PAwqZ9YUo8E]  
-The video demonstrates:
-
-- Execution of each CRUD function (Add, List, Update, Delete)
-- Verifying changes in pgAdmin
-
----
 
 ## Author
 
