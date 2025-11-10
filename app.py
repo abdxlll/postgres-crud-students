@@ -18,7 +18,7 @@ def get_conn():
         print(f"ERROR: Could not connect to PostgreSQL: {e}")
         sys.exit(1)
 
-# ---- CRUD functions ----
+# CRUD functions
 
 def getAllStudents():
     #Retrieve and print all students.
